@@ -27,7 +27,7 @@ public class Principal {
             java.util.logging.Logger.getLogger(views.VentanaProducto.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
-
+                //miau
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
